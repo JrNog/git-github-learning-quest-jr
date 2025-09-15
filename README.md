@@ -22,3 +22,4 @@ Utilize os itens armazenados no seu [inventário](inventario/pergaminho-do-contr
 ***
 
 Feito com 💛 por [Eli](https://github.com/elidianaandrade).
+INTRODUZINDO ALTERAÇÃO PARA TESTE DA AULA
